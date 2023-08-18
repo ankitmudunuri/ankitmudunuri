@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Ankit Mudunuri, and I am currently a sophomore studying Computer Science at Michigan State University!
+
+My main programming languages are Python, C++, Java, and SQL (for when I work with databases), but I am looking to branch out and learn more languages in the future.
+
+I enjoy working on AI tasks related to machine or deep learning, such as NLP and computer vision. I hope to branch out more into the cognitive side of the artificial intelligence field if I get the opportunity.
+
+You can find me on LinkedIn with the link in my Github bio.
+
 <!--
 **ankitmudunuri/ankitmudunuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
