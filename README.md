@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Ankit Mudunuri, and I am currently a sophomore studying Computer Science at Michigan State University!
+My name is Ankit Mudunuri, and I am currently a junior studying Computer Science at Michigan State University!
 
 My main programming languages are Python, C++, Java, and SQL (for when I work with databases), but I am looking to branch out and learn more languages in the future.
 
-I enjoy working on AI tasks related to machine or deep learning, such as NLP and computer vision. I hope to branch out more into the cognitive side of the artificial intelligence field if I get the opportunity.
+I enjoy working on AI tasks related to machine or deep learning, such as NLP and computer vision. I hope to branch out more into the cognitive side of the artificial intelligence field if I get the opportunity. I am also currently trying to branch out into the fields of network security and hardware/low-level security, so any tips or feedback on how to learn about it would be appreciated!
 
 You can find me on LinkedIn with the link in my Github bio.
 
